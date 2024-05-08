@@ -84,59 +84,59 @@
   },
   "favorite-albums": {
     "empty": "آلبوم موردعلاقه ای وجود ندارد",
-    "empty-help": "به موردعلاقه ها آلبومی اضافه کنید!",
+    "empty-help": "به لیست خود  آلبومی اضافه کنید!",
     "header": "آلبوم های مورد علاقه شما"
   },
   "favorite-artists": {
-    "empty": "No favorite artists",
-    "empty-help": "Try adding some artists to favorites and they will appear here!",
-    "header": "Your favorite artists"
+    "empty": "شما خواننده مورد علاقه ای ندارید",
+    "empty-help": "به لیست خود خواننده اضافه کنید!",
+    "header": "خواننده های مورد علاقه"
   },
   "favorites": {
-    "artist": "Artist",
-    "empty": "No favorites added",
-    "empty-help": "Try adding some tracks to favorites and they will appear here!",
-    "header": "Your favorite tracks",
-    "play-random": "Play a random track from your favorites",
-    "title": "Title"
+    "artist": "خواننده",
+    "empty": "چیزی نیست",
+    "empty-help": "به لیت خود آهنگی اضافه کنید!",
+    "header": "آهنگ های مورد علاقه شما",
+    "play-random": "پخش رندوم از لیست مورد علاقه",
+    "title": "سر تیتر"
   },
   "help": {
-    "about": "About Nuclear Music Player",
-    "contributors": "Our top 10 Contributors",
-    "header": "Desktop music player for streaming from free sources",
+    "about": "درباره نوکیر ",
+    "contributors": "10 تا از مشارکت کننده گان برتر",
+    "header": "پلیر آهنگ از منابع رایگان",
     "released": "released under AGPL-3.0",
-    "report": "Submit issues or new features",
-    "thanks": "Many thanks to our contributors on Github, your help was vital in creating this program."
+    "report": "گذارش مشکل یا قابلیت جدید",
+    "thanks": "تشکر زیاد از مشارکت کنندگان در گیت هاب."
   },
   "library": {
-    "add": "Add folders",
-    "album": "Album",
-    "artist": "Artist",
-    "empty": "The library is empty",
-    "empty-help": "Try adding some music using the button above.",
-    "filter-placeholder": "Filter...",
-    "header": "Local Library",
-    "no-search-results": "No search results",
-    "no-search-results-help": "No tracks found with the given name, album, or artist.",
-    "title": "Title"
+    "add": "اضافه کردن فولدر",
+    "album": "آلبوم",
+    "artist": "خواننده",
+    "empty": "لیست خالی",
+    "empty-help": "با کمک دکمه پایین آهنگ به لیت خود اضافه کنید.",
+    "filter-placeholder": "فیلتر...",
+    "header": "کتابخانه محلی",
+    "no-search-results": "چیزی پیدا نشد",
+    "no-search-results-help": "با این اسم چیزی پیدا نشد.",
+    "title": "سر تیتر"
   },
   "lyrics": {
-    "by-artist": "by {{artist}}",
-    "empty": "Nothing is playing.",
-    "empty-help": "Add some music to the queue to display the lyrics here!",
-    "not-found": "No lyrics were found for this song."
+    "by-artist": "توسط {{artist}}",
+    "empty": "چیزی بخش نمیشود.",
+    "empty-help": "برای دیدن متن باید آهنگ به صف اضافه کنید!",
+    "not-found": "متنی برای این آهنگ پیدا نشد."
   },
   "option-control": {
-    "rate": "Playback speed",
-    "autoradio": "Autoradio",
-    "loop": "Loop",
-    "mini-player": "Miniplayer",
-    "shuffle": "Shuffle"
+    "rate": "سرعت پخش",
+    "autoradio": "رادیو",
+    "loop": "تکرار",
+    "mini-player": "پخش کننده کوچک",
+    "shuffle": "شافل"
   },
   "player": {
-    "next-button": "Next track button",
-    "play-pause-button": "Play/Pause button",
-    "previous-button": "Previous track button"
+    "next-button": "دکمه آهنگ بعدی",
+    "play-pause-button": "دکمه پخش و پاوز",
+    "previous-button": "دکمه آهنگ قبلی"
   },
   "playlists": {
     "add-selected-tracks-to-downloads": "Add selected to downloads",
