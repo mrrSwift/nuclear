@@ -202,41 +202,41 @@
     "user-plugins-warning-title": "اخطار!"
   },
   "queue": {
-    "clear": "Clear queue",
-    "dialog-accept": "Save",
-    "dialog-cancel": "Cancel",
-    "dialog-placeholder": "Playlist name...",
-    "dialog-trigger": "Save as playlist",
-    "download": "Download",
-    "download-toast-content": "{{artist}} - {{title}} has been added to downloads.",
-    "download-toast-title": "Track added to downloads",
-    "favorite-add": "Add to favorites",
-    "header": "Queue",
-    "header-track": "Current track",
-    "copy-track-url": "Copy track url to clipboard",
-    "loading": "Stream still loading.",
-    "playlist-add": "Add to playlist",
-    "playlist-add-queue": "Add queue to playlist",
-    "playlist-toast-content": "Playlist {{name}} has been created.",
-    "playlist-toast-title": "Playlist created",
-    "live": "Live",
+    "clear": "پاک کردن صف",
+    "dialog-accept": "ذخیره",
+    "dialog-cancel": "کنسل",
+    "dialog-placeholder": "نام لیست پخش...",
+    "dialog-trigger": "ذخیره به عنوان لیست پخش",
+    "download": "دانلود",
+    "download-toast-content": "{{artist}} - {{title}} به دانلود ها اضافه شد.",
+    "download-toast-title": "اهنگ به دانلود ها اضافه شد",
+    "favorite-add": "اضافه کردن به علاقه مندی ها",
+    "header": "صف",
+    "header-track": "آهنگ درحال پخش",
+    "copy-track-url": "کپی کرن آدرس اهنگ",
+    "loading": "پخش در حال لود می باشد.",
+    "playlist-add": "اضافه کردن به لیست پخش",
+    "playlist-add-queue": "اضافه کردن صف به لیست پخش",
+    "playlist-toast-content": "لیست پخش {{name}} ساخته شد.",
+    "playlist-toast-title": "لیست پخش ساخته شد",
+    "live": "زنده",
     "stream-verification": {
       "tooltip": {
-        "unknown": "The status of this stream is unknown.",
-        "unverified": "This stream has not yet been verified by the community.",
-        "weakly-verified": "This stream has been verified by a couple of users.",
-        "verified": "This stream has been verified by the community.",
-        "verified-by-user": "This stream has been verified by you."
+        "unknown": "وضعیت پخش نامشخص است.",
+        "unverified": "این پخش توسط انجمن تایید نشده.",
+        "weakly-verified": "این پخ توسط چند کاربر تایید شده.",
+        "verified": "این پخش توسط انجمن تایید شده.",
+        "verified-by-user": "این پخش توسط شما تایید شده."
       },
       "stream-status": {
-        "unknown": "Unknown",
-        "unverified": "Unverified",
-        "weakly-verified": "Weakly verified",
-        "verified": "Verified",
-        "verified-by-user": "Verified by you"
+        "unknown": "نامشخص",
+        "unverified": "تایید نشده",
+        "weakly-verified": "تایید هفتگی",
+        "verified": "تایید شده",
+        "verified-by-user": "تایید شده توسط شما"
       },
-      "verify": "Verify",
-      "unverify": "Unverify"
+      "verify": "تایید",
+      "unverify": "لغو تایید"
     }
   },
   "search": {
