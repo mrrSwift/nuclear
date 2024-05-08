@@ -9,6 +9,7 @@ import dk from './locales/dk.json';
 import en from './locales/en.json';
 import es from './locales/es.json';
 import fi from './locales/fi.json';
+import fa from './locales/fa_IR.json';
 import fr from './locales/fr.json';
 import gr from './locales/gr.json';
 import he_IL from './locales/he_IL.json';
@@ -86,7 +87,8 @@ export const setupI18n = ({ languageDetector, debug }: I18nOptions) => {
       vi,
       yue_CN,
       zh_TW,
-      zh_CN
+      zh_CN,
+      fa
     },
     interpolation: {
       escapeValue: false
